@@ -11,7 +11,7 @@
 	<groupId>com.weblearner</groupId>
 	<artifactId>springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>h2database</name>
+	<name>springboot_manytomany</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
